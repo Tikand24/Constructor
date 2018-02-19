@@ -8,6 +8,7 @@ namespace Constructor.Modelos
 {
     public class Bloque
     {
+        //bloque
         private string nombre;
         private ObservableCollection<Pregunta> preguntas;
 
